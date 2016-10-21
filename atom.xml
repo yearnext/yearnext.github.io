@@ -4,9 +4,9 @@
   <subtitle>滴水成河 百川汇海 记录学习的成长历程</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="yearnext.github.io/"/>
+  <link href="https://yearnext.github.io/"/>
   <updated>2016-10-20T02:47:00.196Z</updated>
-  <id>yearnext.github.io/</id>
+  <id>https://yearnext.github.io/</id>
   
   <author>
     <name>yearnext</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="yearnext.github.io/2016/10/20/hello-world/"/>
-    <id>yearnext.github.io/2016/10/20/hello-world/</id>
+    <link href="https://yearnext.github.io/2016/10/20/hello-world/"/>
+    <id>https://yearnext.github.io/2016/10/20/hello-world/</id>
     <published>2016-10-20T02:47:00.123Z</published>
     <updated>2016-10-20T02:47:00.196Z</updated>
     
